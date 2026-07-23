@@ -1,0 +1,39 @@
+<Configuration>
+  <Remove>
+    <OfficeClientEdition>64</OfficeClientEdition>
+    
+    <Product ID="O365HomePremRetail">
+      <Language ID="es-es"/>
+      <Language ID="es-mx"/>
+      <Language ID="fr-ca"/>
+      <Language ID="fr-fr"/>
+      <Language ID="it-it"/>
+      <Language ID="pt-br"/>
+      <Language ID="ar-sa"/>
+      <Language ID="de-de"/>
+      <Language ID="en-gb"/>
+      <Language ID="ja-jp"/>
+      <Language ID="ko-kr"/>
+      <Language ID="zh-cn"/>
+      <Language ID="zh-tw"/>
+    </Product>
+    
+    <Product ID="OneNoteFreeRetail">
+      <Language ID="es-es"/>
+      <Language ID="es-mx"/>
+      <Language ID="fr-ca"/>
+      <Language ID="fr-fr"/>
+      <Language ID="it-it"/>
+      <Language ID="pt-br"/>
+      <Language ID="ar-sa"/>
+      <Language ID="de-de"/>
+      <Language ID="en-gb"/>
+      <Language ID="ja-jp"/>
+      <Language ID="ko-kr"/>
+      <Language ID="zh-cn"/>
+      <Language ID="zh-tw"/>
+    </Product>
+  </Remove>
+  
+  <Display Level="None" AcceptEula="TRUE"/>
+</Configuration>
